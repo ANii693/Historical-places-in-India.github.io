@@ -13,7 +13,7 @@ Webpage Includes Images of historical places and brief description of that Image
 
 The Web Page is also Responsive 
 
-     -Uses css grid concept
+     'Uses css grid concept'
 
 
 Had learnt these concepts on the go that's why you may find wired lines in the html and surely it would be optimized(better presented)
