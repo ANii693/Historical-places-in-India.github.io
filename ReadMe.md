@@ -1,11 +1,11 @@
-# First website - Historical places in india
+#Historical places in india - website
 Hello ,
 
 
-This repo shows my first website project - [MYFIRSTWEBPG](https://anii693.github.io/Historical-places-in-India.github.io/)
+This repo shows my website project - [websiteIND](https://anii693.github.io/Historical-places-in-India.github.io/)
 
 
-web page on historical places in India
+It is a webpage on historical places in India
 
 
 Webpage Includes Images of historical places and brief description of that Images
